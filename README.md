@@ -62,32 +62,9 @@ Quick start — Interactive Console
 The console is the main way to use Izanagi. Launch it once and work from inside it.
 bash  python3 -m izanagi console
 You'll see:
- ___  ________  ________  ________   ________  ________  ___     
- |\  \|\_____  \|\   __  \|\   ___  \|\   __  \|\   ____\|\  \    
- \ \  \\|___/  /\ \  \|\  \ \  \\ \  \ \  \|\  \ \  \___|\ \  \   
-  \ \  \   /  / /\ \   __  \ \  \\ \  \ \   __  \ \  \  __\ \  \  
-   \ \  \ /  /_/__\ \  \ \  \ \  \\ \  \ \  \ \  \ \  \|\  \ \  \ 
-    \ \__\\________\ \__\ \__\ \__\\ \__\ \__\ \__\ \_______\ \__\
-     \|__|\|_______|\|__|\|__|\|__| \|__|\|__|\|__|\|_______|\|__|
 
-  イザナギ  |  AI Purple-Team Assistant  |  v1.0.0
-  For authorized security testing and research only.
+  <img width="1154" height="1013" alt="image" src="https://github.com/user-attachments/assets/88e79865-fd6e-4839-8094-11a8401bf436" />
 
-
-  ╔══════════════════════════════════════════════════════════╗
-  ║          イザナギ  INTERACTIVE CONSOLE  v1.0             ║
-  ║       AI Purple-Team Assistant — Authorized Use Only     ║
-  ╚══════════════════════════════════════════════════════════╝
-
-  Quick start:
-  new <name>      — create + activate a session
-  sessions         — list existing sessions
-  use <id|name>   — activate an existing session
-  help             — all commands
-  exit             — quit
-
-  AI tips are ON. Type ai off to silence them.
-  Commands execute LIVE. Type dry on to log-only mode.
 
 
   izanagi [no session] [AI] >
